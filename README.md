@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Whoismamba
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Twitter @yourguymamba
-- 📫 How to reach me +254743546270
